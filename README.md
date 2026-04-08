@@ -32,7 +32,7 @@ We propose a stable and flexible scene rendering engine (SFRE), which jointly mo
 </p>
 
 <p align="center">
-  <b>Figure 2.</b> Large-scale Translation of Dynamic Vehicles: Row 1 shows the original scene reconstruction; rows 2–3 show medium-distance translations, and rows 4–5 show long-distance translations using our method.
+  <b></b> Large-scale Translation of Dynamic Vehicles: Row 1 shows the original scene reconstruction; rows 2–3 show medium-distance translations, and rows 4–5 show long-distance translations using our method.
 </p>
 
 #### Large Rotation of Dynamic Vehicles Toward Unobserved Directions
@@ -42,7 +42,7 @@ We propose a stable and flexible scene rendering engine (SFRE), which jointly mo
 </p>
 
 <p align="center">
-  <b>Figure 3.</b> Large Rotation of Dynamic Vehicles Toward Unobserved Directions: (a) 60° rotation, (b) 90° rotation, (c) 180° rotation.
+  <b></b> Large Rotation of Dynamic Vehicles Toward Unobserved Directions: (a) 60° rotation, (b) 90° rotation, (c) 180° rotation.
 </p>
 
 ---
