@@ -3,7 +3,7 @@ We propose a stable and flexible scene rendering engine (SFRE), which jointly mo
 
 # Project Title
 
-Official repository for the paper: **Stable and Flexible Scene Rendering Engine for Novel Scene Synthesis in Autonomous Driving**
+**Stable and Flexible Scene Rendering Engine for Novel Scene Synthesis in Autonomous Driving**
 
 ---
 
